@@ -50,6 +50,8 @@
 
 ## ❤️ Let's get connected:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravirajsolanki27) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ravirajsolanki_) [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white)](https://twitter.com/Ravirajsolanki_) 
+
 <p><a href="https://ravisolanki27.github.io/Raviraj/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Raviraj Solanki-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/Ravirajsolanki_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/ravirajsolanki27/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://ravirajsolanki.medium.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/ravi_27.01" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 

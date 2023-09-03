@@ -13,29 +13,22 @@
 
 
 ## 🛠️ Technologies and Tools I use:
+| **JavaScript Stack**  | **Database**      | **Front-End Frameworks**        | **GraphQL**           | **Prettier**          |
+|-----------------------|-------------------|----------------------------------|-----------------------|-----------------------|
+| ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=%23FFFFFF) | ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) | ![Next.js Badge](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white) | ![GraphQL Badge](https://img.shields.io/badge/GraphQL-%23E434AA.svg?logo=graphql&logoColor=white) | ![Prettier Badge](https://img.shields.io/badge/Prettier-%23F7B93E.svg?logo=prettier&logoColor=white) |
+| ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) | | ![Material-UI Badge](https://img.shields.io/badge/Material--UI-%230081CB.svg?logo=material-ui&logoColor=white) | |
+| ![React.js Badge](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white) | | ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?logo=tailwind-css&logoColor=white) | |
+| ![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) | | ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) | |
 
-<p>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
-<img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-916F79?style=for-the-badge&logo=jest&logoColor=F7DF1E"  height="25px"/>
-  <img alt="Enzyme" src="https://img.shields.io/badge/Enzyme-FF5F65?style=for-the-badge&logo=enzyme&logoColor=F7DF1E"  height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
-<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-</p>
+| **Package Management** | **State Management** | **Server-Side**         | **API Testing**         |
+|------------------------|-----------------------|-------------------------|-------------------------|
+| ![npm Badge](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white) | ![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white) | ![Express.js Badge](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white) | ![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) |
+
+| **Web Technologies**   | **Testing Tools**   | **Version Control and Collaboration**   |
+|------------------------|----------------------|----------------------------------------|
+| ![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) | ![Enzyme Badge](https://img.shields.io/badge/Enzyme-%23000000.svg?logo=enzyme&logoColor=white) | ![Git Badge](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white) |
+| ![CSS Badge](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white) | ![Jest Badge](https://img.shields.io/badge/Jest-%23C21325.svg?logo=jest&logoColor=white) | ![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) |
+| ![Markdown Badge](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) | | |
 
 ---
 
@@ -48,12 +41,9 @@
 
 ---
 
-## ❤️ Let's get connected:
+## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravirajsolanki27) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ravirajsolanki_) [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white)](https://twitter.com/Ravirajsolanki_) 
-
-<p><a href="https://ravisolanki27.github.io/Raviraj/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Raviraj Solanki-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/Ravirajsolanki_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/ravirajsolanki27/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://ravirajsolanki.medium.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/ravi_27.01" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+[![GitHub Badge](https://img.shields.io/badge/Raviraj_Solanki-%23121011.svg?logo=rakuten&logoColor=white&color=%2300c1c4)](https://ravisolanki27.github.io/Raviraj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravirajsolanki27) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ravirajsolanki_) [![Medium Badge](https://img.shields.io/badge/Medium-%23121212.svg?logo=medium&logoColor=white)](https://ravirajsolanki.medium.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ravi_27.01)
 
 ---
 
@@ -64,7 +54,14 @@
 
 ---
 
+## 📝 Blog
 
+I occasionally write technical blogs on various topics. Check out my latest articles:
+
+- [Building a Real-Time Chat App with Next.js, Socket.io, and TypeScript](https://blog.stackademic.com/building-a-real-time-chat-app-with-next-js-socket-io-and-typescript-e60ba40c09c7)
+- [What are the 5 things you must do with your first paycheck?](https://www.linkedin.com/pulse/what-5-things-you-must-do-your-first-paycheck-raviraj-solanki)
+
+---
 
 Credit: [RaviSolanki27](https://github.com/RaviSolanki27)
 

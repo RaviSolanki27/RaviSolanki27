@@ -45,7 +45,7 @@
 
 ## 🌐 Socials:
 
-[![GitHub Badge](https://img.shields.io/badge/Raviraj_Solanki-%23121011.svg?logo=rakuten&logoColor=white&color=%2300c1c4)](https://ravisolanki27.github.io/Raviraj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravirajsolanki27) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ravirajsolanki_) [![Medium Badge](https://img.shields.io/badge/Medium-%23121212.svg?logo=medium&logoColor=white)](https://ravirajsolanki.medium.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ravi_27.01)
+[![GitHub Badge](https://img.shields.io/badge/Raviraj_Solanki-%23121011.svg?logo=rakuten&logoColor=white&color=%2300c1c4)](https://ravisolanki27.github.io/Raviraj/) [![Twitter Badge](https://img.shields.io/twitter/follow/Ravirajsolanki_?style=social)](https://twitter.com/Ravirajsolanki_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravirajsolanki27) [![Medium Badge](https://img.shields.io/badge/Medium-%23121212.svg?logo=medium&logoColor=white)](https://ravirajsolanki.medium.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ravi_27.01)
 
 ---
 

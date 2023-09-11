@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Raviraj Solanki</h1>
-<h3>I'm an Engineer and a 23-year-old technical enthusiast who does web development, Blogging, and Designing. Passionate to contribute to open-source projects and create cool content.</h3>
+<h3>I'm an Engineer and a 23-year-old technical enthusiast who does web development, Blogging, and design. Passionate to contribute to open-source projects and create cool content.</h3>
 
 ---
 
@@ -13,16 +13,16 @@
 
 
 ## 🛠️ Technologies and Tools I use:
-| **JavaScript Stack**  | **Database**      | **Front-End Frameworks**        | **GraphQL**           | **VS Code**          | **Real-Time Communication** |
-|-----------------------|-------------------|----------------------------------|-----------------------|-----------------------|-----------------------------|
-| ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=%23FFFFFF) | ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) | ![Next.js Badge](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white) | ![GraphQL Badge](https://img.shields.io/badge/GraphQL-%23E434AA.svg?logo=graphql&logoColor=white) | ![Prettier Badge](https://img.shields.io/badge/Prettier-%23F7B93E.svg?logo=prettier&logoColor=white) | ![Socket.io Badge](https://img.shields.io/badge/Socket.io-%23000000.svg?logo=socket.io&logoColor=white) |
-| ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) | | ![Material-UI Badge](https://img.shields.io/badge/Material--UI-%230081CB.svg?logo=material-ui&logoColor=white) | | ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white) |
-| ![React.js Badge](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white) | | ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?logo=tailwind-css&logoColor=white) | |
+| **JavaScript Stack**  | **Database**      | **Front-End Frameworks**        | **GraphQL**           | **VS Code**          | **Real-Time Communication** | **Form Libraries**     |
+|-----------------------|-------------------|----------------------------------|-----------------------|-----------------------|-----------------------------|------------------------|
+| ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=%23FFFFFF) | ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) | ![Next.js Badge](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white) | ![GraphQL Badge](https://img.shields.io/badge/GraphQL-%23E434AA.svg?logo=graphql&logoColor=white) | ![Prettier Badge](https://img.shields.io/badge/Prettier-%23F7B93E.svg?logo=prettier&logoColor=white) | ![Socket.io Badge](https://img.shields.io/badge/Socket.io-%23000000.svg?logo=socket.io&logoColor=white) | ![React Hook Form Badge](https://img.shields.io/badge/React%20Hook%20Form-%23000000.svg?logo=react&logoColor=white)
+| ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) | | ![Material-UI Badge](https://img.shields.io/badge/Material--UI-%230081CB.svg?logo=material-ui&logoColor=white) | | ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white) | | ![Yup Badge](https://img.shields.io/badge/Yup-%23FF6C37.svg?logo=yup&logoColor=white) 
+| ![React.js Badge](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white) | | ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?logo=tailwind-css&logoColor=white) | | | | ![Zod Badge](https://img.shields.io/badge/Zod-%23FF6C37.svg?logo=zod&logoColor=white)
 | ![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) | | ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) | |
 
-| **Package Management** | **State Management** | **Server-Side**         | **API Testing**         |
-|------------------------|-----------------------|-------------------------|-------------------------|
-| ![npm Badge](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white) | ![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white) | ![Express.js Badge](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white) | ![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) |
+| **Package Management** | **State Management** | **Server-Side**         | **API Testing**         | **i18next** |
+|------------------------|-----------------------|-------------------------|-------------------------|-------------|
+| ![npm Badge](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white) | ![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white) | ![Express.js Badge](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white) | ![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) |![i18next Badge](https://img.shields.io/badge/i18next-%231a202c.svg?logo=i18next&logoColor=white)
 | ![Yarn Badge](https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white) | ![Recoil Badge](https://img.shields.io/badge/Recoil-%231E415D.svg?logo=recoil&logoColor=white) |
 
 | **Web Technologies**   | **Testing Tools**   | **Version Control and Collaboration**   | **Deployment**         |

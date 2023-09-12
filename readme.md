@@ -23,7 +23,7 @@
 | **Package Management** | **State Management** | **Server-Side**         | **API Testing**         | **i18next** |
 |------------------------|-----------------------|-------------------------|-------------------------|-------------|
 | ![npm Badge](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white) | ![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white) | ![Express.js Badge](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white) | ![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) |![i18next Badge](https://img.shields.io/badge/i18next-%231a202c.svg?logo=i18next&logoColor=white)
-| ![Yarn Badge](https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white) | ![Recoil Badge](https://img.shields.io/badge/Recoil-%231E415D.svg?logo=recoil&logoColor=white) |
+| ![Yarn Badge](https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white) | ![Recoil Badge](https://img.shields.io/badge/Recoil-%231E415D.svg?logo=recoil&logoColor=white) | | ![Axios Badge](https://img.shields.io/badge/Axios-%23239ad9.svg?logo=axios&logoColor=white)
 
 | **Web Technologies**   | **Testing Tools**   | **Version Control and Collaboration**   | **Deployment**         |
 |------------------------|----------------------|----------------------------------------|-------------------------|
